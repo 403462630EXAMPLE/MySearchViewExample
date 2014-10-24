@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data">
+        <item>chinese</item>
+        <item>china</item>
+        <item>blance</item>
+        <item>apple</item>
+    </string-array>
+</resources>

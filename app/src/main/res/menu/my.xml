@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MyActivity" >
+    <item android:id="@+id/action_search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="搜索"
+        android:showAsAction="ifRoom"
+        android:actionViewClass="android.widget.SearchView"/>
+</menu>
